@@ -1,0 +1,51 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "ChinookContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": "Data",
+   "OutputContextPath": "EF",
+   "OutputPath": "EF",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "BowlingGame.Data",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Frame]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Game]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Player]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "ezpichp\\sqlexpress.Bowling.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
